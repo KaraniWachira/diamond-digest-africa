@@ -3,7 +3,7 @@
     "path": "~/Documents/DD-Quarto/Diamond-Digest-Africa/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2895821150",
     "contents": "",
     "dirty": false,
     "created": 1732164401717.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "30,21",
+        "cursorPosition": "2,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732172140,
+    "lastKnownWriteTime": 1732178660,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732172140946,
+    "last_content_update": 1732178660176,
     "read_only": false,
     "read_only_alternatives": []
 }
