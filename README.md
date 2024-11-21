@@ -1,5 +1,3 @@
-Here is a sample GitHub README for your Quarto project:
-
 **Diamond Digest**
 ================
 
@@ -33,5 +31,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ---------------
 
 This project was created using Quarto. Thank you to the Quarto team for creating such a great tool.
-
-I hope this helps! Let me know if you have any questions or need further assistance.
